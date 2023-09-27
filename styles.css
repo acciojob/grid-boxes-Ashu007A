@@ -3,7 +3,7 @@
 		#grid {
             display: grid;
             grid-template-columns: auto auto auto;
-            grid-template-rows: 124px 124px 124px;
+            grid-template-rows: 124px 124px 124px 124px 124px;
             gap: 10px;
             /* background-color: #2196F3; */
             padding: 10px;
