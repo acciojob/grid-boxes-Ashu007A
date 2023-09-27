@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 
-		.container {
+		#grid {
             display: grid;
             grid-template-columns: auto auto auto;
             gap: 10px;
@@ -8,7 +8,7 @@
             padding: 10px;
         }
 
-        .container > div {
+        #grid > div {
             background-color: green;
             color: aliceblue;
             text-align: center;
